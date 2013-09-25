@@ -27,6 +27,14 @@ The aim of this project is to create simple application. The main funcionality i
 
 6. Overview<br/>
 
-	This is a wall where everything appears if it was added. The visibility for particular users is the same as decided during creating the item by creator. Each category has its color and each "Activity" has its own sign. 
+	This is a wall where everything appears if it was added. The visibility for particular users is the same as decided during creating the item by creator. Each category has its color and each "Activity" has its own sign. Admins can also change the project-status there.
+	
+7. Search<br/>
+	Enables search for of projects by name and status as well as messages by title and category
+	
+8. Projects<br/>
+	Shows all projects in a list and there is an ability to search projects by name
+
+
 
 Every page/item/post/message can be removed by user, who added this thing or admin if the content is not proper.
