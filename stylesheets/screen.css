@@ -12,14 +12,16 @@ header{
   background-color:#ff9999;
   text-align:center;
   margin:0;
+  width:98,5%;
+  height:7%;
 
 }
 img{
 	vertical-align: center;
 	float:left;
-	height: 45px;
-	width: 45px;
-	padding-bottom:8px;
+	height: 3%;
+	width: 3%;
+	
 
 }
 table {
